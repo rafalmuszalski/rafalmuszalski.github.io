@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Operations Research, University at Buffalo, 2023-current
+* MSc in Operational Research, University of Edinburgh, 2022 (Distinction)
+* BSc in Mathematics, University of Dundee, 2021 (1st Class Honours)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Full CV and work experience available upon request
+  * Professional tab-closer: 37 tabs open, none read
+  * Debugged someone else's code by rewriting it entirely
+  * Executive SVP Quantum Blockchain Optimization with Reinforcement LLM in Data Science
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
