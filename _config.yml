@@ -29,7 +29,7 @@ author:
   location         : "Buffalo, NY, USA"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "[firstname].e.[lastname]@gmail.com" 
+  email            : "[first].e.[last]@gmail.com" 
 
   # Academic websites
   academia         : # URL
