@@ -36,7 +36,7 @@ Languages
 ======
 * English - Fluent
 * Polish - Native
-* German - Limited working proficiency (B2)
+* German - Limited working proficiency (CEFR: B2)
 
 Publications
 ======
