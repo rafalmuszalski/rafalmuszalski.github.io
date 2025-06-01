@@ -32,6 +32,12 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Languages
+======
+* English - Fluent
+* Polish - Native
+* German - Limited working proficiency (B2)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
