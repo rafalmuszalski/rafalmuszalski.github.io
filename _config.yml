@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Rafal Muszalski"
-  pronouns         : "Rafa Mushalski"  
+  pronouns         : #"Rafa Mushalski"  
   bio              : "Operations Research PhD Candidate"
   location         : "Buffalo, NY, USA"
   employer         : #"Red Brick University"
