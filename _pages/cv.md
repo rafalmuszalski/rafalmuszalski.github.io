@@ -18,9 +18,9 @@ Education
 Work experience
 ======
 * Full CV and work experience available upon request
-  * Professional tab-closer: 37 tabs open, none read
-  * Debugged someone else's code by rewriting it entirely
-  * Executive SVP Quantum Blockchain Optimization with Reinforcement LLM in Data Science
+* Professional tab-closer: 37 tabs open, none read
+* Debugged someone else's code by rewriting it entirely
+* Executive SVP Quantum Blockchain Optimization with Reinforcement LLM in Data Science
 
   
 Skills
